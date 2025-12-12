@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64">
+
+  <!-- Background -->
+  <rect x="4" y="4" width="56" height="56" rx="14"
+        fill="#E0F2FE"/>
+
+  <!-- Letter D -->
+  <path d="M20 16
+           H30
+           C40 16 48 24 48 32
+           C48 40 40 48 30 48
+           H20 Z"
+        fill="#38BDF8"/>
+
+  <!-- Inner cut of D -->
+  <path d="M25 21
+           H30
+           C36 21 41 26 41 32
+           C41 38 36 43 30 43
+           H25 Z"
+        fill="#E0F2FE"/>
+
+  <!-- Letter R -->
+  <path d="M28 30
+           H36
+           C41 30 44 33 44 37
+           C44 41 41 43 37 43
+           H34
+           L44 52
+           H38
+           L28 43
+           V52
+           H24 Z"
+        fill="#0284C7"/>
+
+</svg>
